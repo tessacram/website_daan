@@ -1,0 +1,125 @@
+%!Adobe-FontList 1.20
+%Locale:0x413
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AcuminVariableConcept
+FamilyName:Acumin Variable Concept
+StyleName:Default
+FullName:Acumin Variable Concept Default
+MenuName:Acumin Variable Concept
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\anneg\OneDrive\Pictures\Design opdrachten\website_vandaan\website_vandaan map\Document fonts\AcuminVariableConcept.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:CFF2VariableFont
+FileLength:1029036
+FileModTime:1574832602
+WeightClass:275
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Acumin Variable Concept
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Apenstaartje-Regular
+FamilyName:Apenstaartje
+StyleName:Regular
+FullName:Apenstaartje Regular
+MenuName:Apenstaartje
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\anneg\OneDrive\Pictures\Design opdrachten\website_vandaan\website_vandaan map\Document fonts\Apenstaartje-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:2368
+FileModTime:1580676546
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Apenstaartje Regular
+NameArray:0,Win,1,Apenstaartje
+NameArray:0,Win,16,Apenstaartje
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:CijfersDaan-Regular
+FamilyName:Cijfers Daan
+StyleName:Regular
+FullName:Cijfers Daan Regular
+MenuName:Cijfers Daan
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\anneg\OneDrive\Pictures\Design opdrachten\website_vandaan\website_vandaan map\Document fonts\CijfersDaan-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:5772
+FileModTime:1580675923
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Cijfers Daan Regular
+NameArray:0,Win,1,Cijfers Daan
+NameArray:0,Win,16,Cijfers Daan
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:DaanHandschriftNet-Regular
+FamilyName:Daan Handschrift Net
+StyleName:Regular
+FullName:Daan Handschrift Net Regular
+MenuName:Daan Handschrift Net
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\anneg\OneDrive\Pictures\Design opdrachten\website_vandaan\website_vandaan map\Document fonts\DaanHandschriftNet-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:16360
+FileModTime:1580673151
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Daan Handschrift Net Regular
+NameArray:0,Win,1,Daan Handschrift Net
+NameArray:0,Win,16,Daan Handschrift Net
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Regular
+FamilyName:Minion Pro
+StyleName:Regular
+FullName:Minion Pro
+MenuName:Minion Pro
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\anneg\OneDrive\Pictures\Design opdrachten\website_vandaan\website_vandaan map\Document fonts\MinionPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:218640
+FileModTime:1574832602
+WeightClass:400
+WidthClass:5
+AngleClass:0
+DesignSize:110
+NameArray:0,Mac,4,Minion Pro
+NameArray:0,Win,1,Minion Pro
+%EndFont
+
